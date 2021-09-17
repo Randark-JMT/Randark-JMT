@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Randark-JMT&show_icons=true&theme=merko">
+
+### Hi ，这里是橘墨👋
 
 <!--
 **Randark-JMT/Randark-JMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 虽人在材物，但心在代码♥
+### 热爱生命，我用Python
+### CTF是啥，可以用来摸鱼吗
