@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 虽人在材物，但心在代码♥
+### 虽人在材料，但心在代码♥
 ### 热爱生命，我用Python
 ### CTF是啥，可以用来摸鱼吗
