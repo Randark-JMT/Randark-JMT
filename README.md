@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 虽人在材料，但心在代码♥
-### 热爱生命，我用Python
-### CTF是啥，可以用来摸鱼吗
+### Why So Serious
+### --> [个人网站](https://randark.site) <--
