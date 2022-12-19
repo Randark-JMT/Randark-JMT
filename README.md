@@ -1,6 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Randark-JMT&show_icons=true&theme=merko">
+![Randark-JMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randark-JMT)
 
 ### Hi ，这里是橘墨👋
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RandarkJMT.png)
+
 
 <!--
 **Randark-JMT/Randark-JMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Why So Serious
+### ***Why So Serious***
 ### --> [个人网站](https://randark.site) <--
