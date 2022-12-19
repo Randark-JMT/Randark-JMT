@@ -1,7 +1,7 @@
 ![Randark-JMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randark-JMT)
 
 ### Hi ，这里是橘墨👋
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RandarkJMT.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RandarkJMT.png?2)
 
 
 <!--
