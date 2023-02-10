@@ -1,23 +1,22 @@
-![Randark-JMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randark-JMT)
+![](/header.png)
 
 ### Hi ，这里是橘墨👋
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RandarkJMT.png?2)
 
+CTFer(Debutante) | Sound game rookie
 
-<!--
-**Randark-JMT/Randark-JMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Players who work hard in the direction of Misc
 
-Here are some ideas to get you started:
+(You know, misc is misc after all)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mission: Why So Serious
 
-### ***Why So Serious***
 ### --> [个人网站](https://randark.site) <--
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Randark-JMT" />
+</a>
+<a href="https://tryhackme.com">
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/RandarkJMT.png?2" />
+</a>
+
+
