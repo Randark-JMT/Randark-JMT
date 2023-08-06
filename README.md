@@ -11,12 +11,3 @@ Players who work hard in the direction of Misc
 Mission: Why So Serious
 
 ### --> [个人网站](https://randark.site) <--
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Randark-JMT" />
-</a>
-<a href="https://tryhackme.com">
-  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/RandarkJMT.png?2" />
-</a>
-
-
