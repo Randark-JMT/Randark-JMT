@@ -4,4 +4,4 @@
 
 CTFer(Debutante) | Sound game rookie
 
-Players who work hard in the direction of Misc
+Players who work hard in the direction of ~~Misc~~ DEAD
