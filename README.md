@@ -1,5 +1,3 @@
-![](/header.png)
-
 ### Hi ，这里是橘墨👋
 
 CTFer(Debutante) | Sound game rookie
